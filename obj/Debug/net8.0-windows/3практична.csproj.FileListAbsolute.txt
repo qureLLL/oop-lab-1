@@ -1,0 +1,16 @@
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.csproj.GenerateResource.cache
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.AssemblyInfoInputs.cache
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.AssemblyInfo.cs
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\_3практична.Form1.resources
+C:\Users\Руслан\Documents\GitHub\3практична\bin\Debug\net8.0-windows\3практична.exe
+C:\Users\Руслан\Documents\GitHub\3практична\bin\Debug\net8.0-windows\3практична.deps.json
+C:\Users\Руслан\Documents\GitHub\3практична\bin\Debug\net8.0-windows\3практична.runtimeconfig.json
+C:\Users\Руслан\Documents\GitHub\3практична\bin\Debug\net8.0-windows\3практична.dll
+C:\Users\Руслан\Documents\GitHub\3практична\bin\Debug\net8.0-windows\3практична.pdb
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.dll
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\refint\3практична.dll
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.pdb
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\3практична.genruntimeconfig.cache
+C:\Users\Руслан\Documents\GitHub\3практична\obj\Debug\net8.0-windows\ref\3практична.dll
